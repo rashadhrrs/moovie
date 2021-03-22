@@ -1,3 +1,6 @@
+# First
+After download this project to your local, open this project at code editor (Visual Studio Code). Open terminal tab and then type "npm install" for install all libraries in this project. After that, type "npm start" for running this project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
