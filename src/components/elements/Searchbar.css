@@ -1,0 +1,48 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    background-color: #1c1c1c;
+    height: 66px;
+    position: absolute;
+    width: 100%;
+    right: 1px;
+    z-index: 1000;
+}
+
+.navbar-list{
+
+}
+.navbar-list ul{
+    display: flex;
+    position: absolute;
+    right: 120px;
+    top: 5px;
+    
+}
+.navbar-list li{
+    color: white;
+    list-style: none;
+    margin-right: 30px;
+    cursor: pointer;
+    
+}
+
+.logo{
+    margin-right: 30px;
+    top: 15px;
+    left: 150px;
+    position: absolute
+}
+
+.searchbar{
+    width: 42%;
+    height: 20px;
+    position: absolute;
+    left: 300px;
+}
+
+.gridlogo{
+    position: absolute;
+    top: 0;
+    left: 14px;
+}
